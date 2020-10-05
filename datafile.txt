@@ -1,0 +1,3 @@
+hello welcome to datafile.txt
+this file is for demo
+good luck!Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!
